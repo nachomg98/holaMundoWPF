@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="97,72,0,0" TextWrapping="Wrap" Text="holaMundo" VerticalAlignment="Top" Height="33" Width="112" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="97,72,0,0" TextWrapping="Wrap" Text="holaMundo desde la gloria desde el ciclo DAM" VerticalAlignment="Top" Height="33" Width="112" FontSize="20"/>
         <TextBlock HorizontalAlignment="Left" Margin="97,180,0,0" TextWrapping="Wrap" Text="holaMundo desde el mundo de GIT" VerticalAlignment="Top" Height="33" Width="330" FontSize="20"/>
     </Grid>
 </Window>
